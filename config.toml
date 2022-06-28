@@ -147,9 +147,9 @@ theme = "hugo-devresume-theme"
         company = "Mission Control NOC and HelpDesk Services"
         details = "Performed helpdesk and server/hosted application technical support for clients and internal stakeholders."
         [[params.experience.list.items]]
-        details = "Application Support."
+        details = "Management of Cloud Resources - Microsoft Azure, Google Cloud, AWS"
         [[params.experience.list.items]]
-        details = "Service Desk Analyst, Technical Support."
+        details = "Desktop Support, End User Support Services."
 
         [[params.experience.list]]
         title = "System Administrator"
