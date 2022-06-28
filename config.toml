@@ -1,0 +1,193 @@
+# Page settings
+
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "Alex Dongas"
+theme = "hugo-devresume-theme"
+#googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Alex Dongas"
+        tagline = "IT Professional"
+        
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "Canada"
+      
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:alexdongas@hotmail.com"
+        text = "alexdongas@hotmail.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://alexdongas.pages.dev"
+        text = "alexdongas.pages.dev"
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Cloud/Virtualization"
+        [[params.skills.list.items]]
+        details = "Windows Server"
+        [[params.skills.list.items]]
+        details = "Linux Server/Desktop"
+        [[params.skills.list.items]]
+        details = "System Administration"
+        [[params.skills.list.items]]
+        details = "Application Support"
+        [[params.skills.list.items]]
+        details = "HelpDesk and Technical Support"
+        [[params.skills.list.items]]
+        details = "Lead and deliver reliable solutions"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Effective communication"
+        [[params.skills.list.items]]
+        details = "Team player"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+        [[params.skills.list.items]]
+        details = "Leadership capabilities"
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "BA (Hons.) Information Technology"
+        university = "York University"
+        dates = "2010 - 2015"
+        [[params.education.list]]
+        degree = "Diploma - Computer Networking"
+        university = "Seneca College"
+        dates = "2008 - 2010"
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Native"
+   
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "IT Specialist currently seeking new opportunities and projects. At present, I have five years of combined work and technical experience."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Lead Technical Specialist"
+        dates = "2019 - 2020"
+        company = "Mission Control NOC and HelpDesk Services"
+        details = "Provided leadership and support to internal helpdesk staff. Also aided helpdesk staff, in addition to client facing and administrative responsibilites."
+        [[params.experience.list.items]]
+        details = "Server Management."
+        [[params.experience.list.items]]
+        details = "Remediation and Technical Analysis."
+        [[params.experience.list.items]]
+        details = "Maintenance and Preventative Measures."
+
+        [[params.experience.list]]
+        title = "Technical Analyst"
+        dates = "2018 - 2019"
+        company = "Mission Control NOC and HelpDesk Services"
+        details = "Performed helpdesk and server/hosted application technical support for clients and internal stakeholders."
+        [[params.experience.list.items]]
+        details = "Application Support."
+        [[params.experience.list.items]]
+        details = "Service Desk Analyst, Technical Support."
+
+        [[params.experience.list]]
+        title = "System Administrator"
+        dates = "2016 - 2018"
+        company = "Consolidated FastFrate Inc."
+        details = "Served as escalation point for helpdesk activities, in addition to managing the server and endpoints within the enterprise. This included upgrades, decomissioning, antivirus and patch management."
+
+        [[params.experience.list]]
+        title = "Technical Specialist / Subject Matter Expert"
+        dates = "2015 - 2016"
+        company = "VortalSoft Inc."
+        details = "Performed initial triage of inbound tickets to the service desk. Also became subject matter expert for particular suite of Call Center Management Software. Performed troubleshooting, analysis and technical support for internal and external stakeholders."
+
+   
+
+
+
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Cybersecurity"
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/alexdongas"
+        title = "alexdongas"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/alexdongas"
+        title = "alexdongas"
+       
+
+
+
+
+
