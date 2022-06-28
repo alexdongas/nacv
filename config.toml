@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "https://alexdongas.netlify.app/"
 languageCode = "en"
 title = "Alex Dongas"
 theme = "hugo-devresume-theme"
