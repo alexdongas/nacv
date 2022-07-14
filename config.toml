@@ -4,7 +4,7 @@ baseURL = "https://alexdongas.netlify.app/"
 languageCode = "en"
 title = "Alex Dongas"
 theme = "hugo-devresume-theme"
-#googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "G-YSZQCYC5BF"
 
 
 
