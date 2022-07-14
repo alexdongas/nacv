@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://alexdongas.pages.dev/"
+baseURL = "https://alexdongas.netlify.app/"
 languageCode = "en"
 title = "Alex Dongas"
 theme = "hugo-devresume-theme"
